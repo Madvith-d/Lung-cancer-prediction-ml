@@ -48,11 +48,4 @@ Feel free to contribute to this project by:
 3. Implementing additional evaluation metrics
 4. Enhancing the prediction pipeline
 
-## License
 
-This project is open source and available for use. Please refer to the LICENSE file for more details.
-
-## Acknowledgments
-
-- The dataset used in this project is based on lung cancer survey data
-- Special thanks to the contributors who helped in data collection and preprocessing
